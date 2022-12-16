@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>xxaxx007 的日常 on xxaxx 的日常</title>
-    <link>https://xxaxx007.github.io/</link>
-    <description>Recent content in xxaxx007 的日常 on xxaxx 的日常</description>
+    <title>文章 on xxaxx 的日常</title>
+    <link>https://xxaxx007.github.io/blog/</link>
+    <description>Recent content in 文章 on xxaxx 的日常</description>
     <image>
       <url>https://xxaxx007.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://xxaxx007.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 17:14:40 +0800</lastBuildDate><atom:link href="https://xxaxx007.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://xxaxx007.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://xxaxx007.github.io/blog/test/</link>
@@ -127,16 +127,6 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
       
       <guid>https://xxaxx007.github.io/blog/chapter-1/</guid>
       <description>The Grand Hall</description>
-    </item>
-    
-    
-    <item>
-      <title>关于</title>
-      <link>https://xxaxx007.github.io/%E5%85%B3%E4%BA%8E/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xxaxx007.github.io/%E5%85%B3%E4%BA%8E/</guid>
-      <description>A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE.</description>
     </item>
     
   </channel>

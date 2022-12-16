@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xxaxx007.github.io/test/</loc>
+    <loc>https://xxaxx007.github.io/blog/test/</loc>
     <lastmod>2022-12-16T17:14:40+08:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/ask-question/</loc>
+    <loc>https://xxaxx007.github.io/</loc>
+    <lastmod>2022-12-16T17:14:40+08:00</lastmod>
+  </url><url>
+    <loc>https://xxaxx007.github.io/blog/ask-question/</loc>
     <lastmod>2022-12-16T17:00:01+08:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/how-to-ask-questions-the-smart-way/</loc>
+    <loc>https://xxaxx007.github.io/blog/how-to-ask-questions-the-smart-way/</loc>
     <lastmod>2022-12-16T14:42:57+08:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/</loc>
-    <lastmod>2022-12-16T14:42:57+08:00</lastmod>
-  </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/chapter-6/</loc>
+    <loc>https://xxaxx007.github.io/blog/chapter-6/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/chapter-5/</loc>
+    <loc>https://xxaxx007.github.io/blog/chapter-5/</loc>
     <lastmod>2017-04-13T11:15:58-04:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/chapter-4/</loc>
+    <loc>https://xxaxx007.github.io/blog/chapter-4/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
   </url><url>
     <loc>https://xxaxx007.github.io/tags/scene/</loc>
@@ -29,17 +29,19 @@
     <loc>https://xxaxx007.github.io/tags/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/chapter-3/</loc>
+    <loc>https://xxaxx007.github.io/blog/chapter-3/</loc>
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/chapter-2/</loc>
+    <loc>https://xxaxx007.github.io/blog/chapter-2/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/chapter-1/</loc>
+    <loc>https://xxaxx007.github.io/blog/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>https://xxaxx007.github.io/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://xxaxx007.github.io/blog/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://xxaxx007.github.io/archives/</loc>
   </url><url>
     <loc>https://xxaxx007.github.io/categories/</loc>
   </url><url>
