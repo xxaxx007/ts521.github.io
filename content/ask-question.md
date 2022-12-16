@@ -1,7 +1,7 @@
 ---
-title: "How to Ask Questions the Smart Way"
-date: 2022-12-16T14:38:50+08:00
-tags: ["转载"]
+title: "Ask Question"
+date: 2022-12-16T17:00:01+08:00
+tags: []
 featured_image: ""
 description: ""
 ---
