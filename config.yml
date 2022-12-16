@@ -19,15 +19,15 @@ params:
   title: xxaxx007 的日常
   description: "记录日常点滴生活"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  # author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false 
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -76,9 +76,9 @@ params:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
 
-  socialIcons:    
-    - name: github
-      url: "https://github.com/"  
+  # socialIcons:    
+  #   - name: github
+  #     url: "https://github.com/"  
 
   cover:
     hidden: true # hide everywhere but not in structured data
