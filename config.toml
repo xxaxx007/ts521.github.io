@@ -37,6 +37,17 @@ enableRobotsTXT = true
   recent_posts_number = 3
   show_reading_time = true
   # {{ .Date | time.Format ":date_long" }}
+[params.giscus]
+  data_repo="xxaxx007.github.io"
+  data_repo_id="**************************"
+  data_category="Announcements"
+  data_category_id="**************************"
+  data_mapping="pathname"
+  data_reactions_enabled="1"
+  data_emit_metadata="0"
+  data_theme="light"
+  data_lang="en"
+  crossorigin="anonymous"
 
 [[params.ananke_socials]]
 name = "github"
