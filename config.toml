@@ -1,5 +1,5 @@
 title = 'My New Hugo Site'
-baseURL = 'http://xxaxx007.github.io'
+baseURL = 'https://xxaxx007.github.io/'
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "themes/ananke/resources"
@@ -11,9 +11,13 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "Ananke"
+  [languages.zh]
+    title = "xxaxx007 的日常"
     weight = 1
+    contentDir = "content/zh"
+  [languages.en]
+    title = "My Daily Life"
+    weight = 2
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
 
@@ -21,7 +25,6 @@ enableRobotsTXT = true
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-
 [params]
   text_color = ""
   author = ""
@@ -29,8 +32,11 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-orange"
+  background_color_class = "bg-light-blue"
+  commentoEnable = true
   recent_posts_number = 3
+  show_reading_time = true
+  # {{ .Date | time.Format ":date_long" }}
 
 [[params.ananke_socials]]
 name = "github"
