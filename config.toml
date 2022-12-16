@@ -13,11 +13,11 @@ enableRobotsTXT = true
 [languages]
   [languages.zh]
     title = "xxaxx007 的日常"
-    weight = 1
+    weight = 2
     contentDir = "content/zh"
   [languages.en]
     title = "My Daily Life"
-    weight = 2
+    weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
 
