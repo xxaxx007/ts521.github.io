@@ -1,5 +1,5 @@
 baseURL: "https://xxaxx007.github.io/"
-title: xxaxx 的日常 
+title: xxaxx007 的日常 
 paginate: 7
 theme: PaperMod
 
@@ -16,14 +16,14 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: xxaxx 的日常
+  title: xxaxx007 的日常
   description: "记录日常点滴生活"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -39,7 +39,7 @@ params:
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: xxaxx 007
+    title: xxaxx007
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -86,7 +86,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/xxaxx007/content/文章"
+    URL: "https://github.com/xxaxx007/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -105,7 +105,7 @@ menu:
     - identifier: blog
       name: blog
       url : blog/
-      weight: 1
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
