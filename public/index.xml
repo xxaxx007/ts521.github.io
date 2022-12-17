@@ -5,8 +5,8 @@
     <link>https://xxaxx007.github.io/</link>
     <description>Recent content on xxaxx007 的日常</description>
     <image>
-      <url>https://xxaxx007.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://xxaxx007.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xxaxx007.github.io/papermod-cover.png</url>
+      <link>https://xxaxx007.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 16 Dec 2022 18:08:12 +0800</lastBuildDate><atom:link href="https://xxaxx007.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -117,8 +117,11 @@ Vimrc直到第21章才讲。为了保持清晰，我将在这里简要的介绍�
       <guid>https://xxaxx007.github.io/blog/test/</guid>
       <description>just test it. 部署新主题
 添加评论
-测试 $$x^2 + y^2 = e^{\sin^2x + \cos^2x}$$
-$$\sin^2x + \cos^2x =1$$</description>
+公式测试
+$$x^2 + y^2 = e^{\sin^2x + \cos^2x}$$
+$$\sin^2x + \cos^2x =1$$
+表情测试 真好笑！ :joy:
+:smile:</description>
     </item>
     
     <item>
@@ -230,6 +233,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
       <guid>https://xxaxx007.github.io/blog/chapter-1/</guid>
       <description>The Grand Hall</description>
     </item>
+    
     
     
     <item>

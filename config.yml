@@ -23,7 +23,7 @@ buildExpired: false
 
 minify:
   disableXML: true
-  minifyOutput: true
+  # minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -32,7 +32,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   # author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["papermod-cover.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -47,7 +47,11 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
+  enableInlineShortcodes: true
   comments: true
+  math: true
+  busuanzi: true 
+  enableEmoji: true
   hidemeta: false
   hideSummary: false
   showtoc: true
@@ -81,6 +85,8 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: Archives
+        url: archives
 
   # home-info mode
   homeInfoParams:
@@ -111,6 +117,12 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # is necessary
+
 menu:
   main:
     - identifier: blog
@@ -121,10 +133,18 @@ menu:
       name: categories
       url: /categories/
       weight: 10
+    - identifier: Archives
+      name: archives
+      url: /archives/
+      weight: 15
+    - identifier: Search
+      name: search
+      url: search/
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 25
     - identifier: example
       name: xxaxx007
       url:  https://xxaxx007.github.io/ 
