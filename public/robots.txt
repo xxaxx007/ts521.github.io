@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://xxaxx007.github.io/sitemap.xml
