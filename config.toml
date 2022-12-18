@@ -1,11 +1,7 @@
 baseurl = "https://xxaxx007.github.io"
 title = "xxaxx007 的日常"
 theme = "LoveIt"
-# languageCode = "en"
-# language name ["English", "简体中文", "Français", "Polski", ...]
-# languageName = "English"
-# whether to include Chinese/Japanese/Korean
-# hasCJKLanguage = true
+
 
 [Author]
     name = "xxaxx007"
