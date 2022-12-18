@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>code - Tag - xxaxx007 的日常</title>
+        <link>https://xxaxx007.github.io/tags/code/</link>
+        <description>code - Tag - xxaxx007 的日常</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Tue, 08 Mar 2016 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://xxaxx007.github.io/tags/code/" rel="self" type="application/rss+xml" /><item>
+    <title>Code Sample</title>
+    <link>https://xxaxx007.github.io/post/2016-03-08-code-sample/</link>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 &#43;0000</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/post/2016-03-08-code-sample/</guid>
+    <description><![CDATA[<p>The following are two code samples using syntax highlighting.</p>]]></description>
+</item>
+</channel>
+</rss>

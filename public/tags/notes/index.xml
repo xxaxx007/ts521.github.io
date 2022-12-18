@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>notes - Tag - xxaxx007 的日常</title>
+        <link>https://xxaxx007.github.io/tags/notes/</link>
+        <description>notes - Tag - xxaxx007 的日常</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Sat, 17 Dec 2022 13:47:02 &#43;0800</lastBuildDate><atom:link href="https://xxaxx007.github.io/tags/notes/" rel="self" type="application/rss+xml" /><item>
+    <title>Git_induct</title>
+    <link>https://xxaxx007.github.io/blog/notes/git_induct/</link>
+    <pubDate>Sat, 17 Dec 2022 13:47:02 &#43;0800</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/blog/notes/git_induct/</guid>
+    <description><![CDATA[git 常用指令总结 1 2 3 4 5 6 7 * git init * git remote -v * git remote rm origin * git remote add origin * git add . * git comment -m &#34;cmts&#34; * git push ]]></description>
+</item>
+</channel>
+</rss>

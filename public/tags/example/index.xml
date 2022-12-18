@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>example - Tag - xxaxx007 的日常</title>
+        <link>https://xxaxx007.github.io/tags/example/</link>
+        <description>example - Tag - xxaxx007 的日常</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Tue, 07 Mar 2017 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://xxaxx007.github.io/tags/example/" rel="self" type="application/rss+xml" /><item>
+    <title>Big Image Sample</title>
+    <link>https://xxaxx007.github.io/post/2017-03-07-bigimg-sample/</link>
+    <pubDate>Tue, 07 Mar 2017 00:00:00 &#43;0000</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/post/2017-03-07-bigimg-sample/</guid>
+    <description><![CDATA[<p>The image banners at the top of the page are refered to as &ldquo;bigimg&rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.</p>]]></description>
+</item>
+<item>
+    <title>Math Sample</title>
+    <link>https://xxaxx007.github.io/post/2017-03-05-math-sample/</link>
+    <pubDate>Sun, 05 Mar 2017 00:00:00 &#43;0000</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/post/2017-03-05-math-sample/</guid>
+    <description><![CDATA[<p>KaTeX can be used to generate complex math formulas server-side.</p>
+<p>$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$</p>
+<p>Additional details can be found on <a href="https://github.com/Khan/KaTeX" target="_blank" rel="noopener noreffer ">GitHub</a> or on the <a href="http://tiddlywiki.com/plugins/tiddlywiki/katex/" target="_blank" rel="noopener noreffer ">Wiki</a>.</p>]]></description>
+</item>
+<item>
+    <title>Code Sample</title>
+    <link>https://xxaxx007.github.io/post/2016-03-08-code-sample/</link>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 &#43;0000</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/post/2016-03-08-code-sample/</guid>
+    <description><![CDATA[<p>The following are two code samples using syntax highlighting.</p>]]></description>
+</item>
+<item>
+    <title>Test markdown</title>
+    <link>https://xxaxx007.github.io/post/2015-02-20-test-markdown/</link>
+    <pubDate>Fri, 20 Feb 2015 00:00:00 &#43;0000</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/post/2015-02-20-test-markdown/</guid>
+    <description><![CDATA[You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Here is some bold text
+Here is a secondary heading Here&rsquo;s a useless table:
+Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe?]]></description>
+</item>
+</channel>
+</rss>

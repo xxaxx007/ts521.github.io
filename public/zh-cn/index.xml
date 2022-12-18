@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>xxaxx007 的日常</title>
+        <link>https://xxaxx007.github.io/zh-cn/</link>
+        <description>记录日常点滴美好</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster>
+            <atom:link href="https://xxaxx007.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - xxaxx007 dailylife</title>
+        <link>https://xxaxx007.github.io/posts/</link>
+        <description>All Posts | xxaxx007 dailylife</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Sat, 17 Dec 2022 14:28:58 &#43;0800</lastBuildDate><atom:link href="https://xxaxx007.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Up</title>
+    <link>https://xxaxx007.github.io/up/</link>
+    <pubDate>Sat, 17 Dec 2022 14:28:58 &#43;0800</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/up/</guid>
+    <description><![CDATA[近期更新内容 加入 comments，借助 giscus 引入github 评论 使用 busuanzi 统计访问量和阅读数 完善 $Latex$ 公式显示功能: $e^{i\pi} + 1 = 0$ 加入emoji显示功能：:smile: :joy: ]]></description>
+</item>
+<item>
+    <title>Update</title>
+    <link>https://xxaxx007.github.io/update/</link>
+    <pubDate>Sat, 17 Dec 2022 13:27:28 &#43;0800</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/update/</guid>
+    <description><![CDATA[近期更新内容 加入 comments，借助 giscus 引入github 评论 使用 busuanzi 统计访问量和阅读数 完善 $Latex$ 公式显示功能: $e^{i\pi} + 1 = 0$ 加入emoji显示功能：:smile: :joy: ]]></description>
+</item>
+</channel>
+</rss>

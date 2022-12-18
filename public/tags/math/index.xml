@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>math - Tag - xxaxx007 的日常</title>
+        <link>https://xxaxx007.github.io/tags/math/</link>
+        <description>math - Tag - xxaxx007 的日常</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Sun, 05 Mar 2017 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://xxaxx007.github.io/tags/math/" rel="self" type="application/rss+xml" /><item>
+    <title>Math Sample</title>
+    <link>https://xxaxx007.github.io/post/2017-03-05-math-sample/</link>
+    <pubDate>Sun, 05 Mar 2017 00:00:00 &#43;0000</pubDate>
+    <author>xxaxx007</author>
+    <guid>https://xxaxx007.github.io/post/2017-03-05-math-sample/</guid>
+    <description><![CDATA[<p>KaTeX can be used to generate complex math formulas server-side.</p>
+<p>$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$</p>
+<p>Additional details can be found on <a href="https://github.com/Khan/KaTeX" target="_blank" rel="noopener noreffer ">GitHub</a> or on the <a href="http://tiddlywiki.com/plugins/tiddlywiki/katex/" target="_blank" rel="noopener noreffer ">Wiki</a>.</p>]]></description>
+</item>
+</channel>
+</rss>
