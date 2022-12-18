@@ -4,7 +4,17 @@
         <link>https://xxaxx007.github.io/posts/</link>
         <description>All Posts | xxaxx007 dailylife</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxaxx1210@yandex.com (xxaxx007)</managingEditor>
-            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Sat, 17 Dec 2022 14:28:58 &#43;0800</lastBuildDate><atom:link href="https://xxaxx007.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>xxaxx1210@yandex.com (xxaxx007)</webMaster><lastBuildDate>Sun, 18 Dec 2022 22:49:55 &#43;0800</lastBuildDate><atom:link href="https://xxaxx007.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Loveit</title>
+    <link>https://xxaxx007.github.io/loveit/</link>
+    <pubDate>Sun, 18 Dec 2022 22:49:55 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://xxaxx007.github.io/loveit/</guid>
+    <description><![CDATA[测试文档 切换 LoveIt 主题之后，进行基本功能测试如下：
+$Katex$ 公式编辑 $e^{i\pi} + 1 = 0$ $$ \sin^2{x} + \cos^2{x} = 1$$ Emoji 表情 :smile:
+真好笑！ :joy: giscus 评论 busuanzi 浏览量统计 搜索功能 ]]></description>
+</item>
+<item>
     <title>Up</title>
     <link>https://xxaxx007.github.io/up/</link>
     <pubDate>Sat, 17 Dec 2022 14:28:58 &#43;0800</pubDate>

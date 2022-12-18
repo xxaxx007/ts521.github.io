@@ -2,6 +2,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://xxaxx007.github.io/loveit/</loc><lastmod>2022-12-18T22:49:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xxaxx007.github.io/posts/</loc><lastmod>2022-12-18T22:49:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xxaxx007.github.io/</loc><lastmod>2022-12-18T22:49:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://xxaxx007.github.io/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://xxaxx007.github.io/"
+                    /></url><url>
             <loc>https://xxaxx007.github.io/tags/</loc><lastmod>2022-12-17T17:30:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -11,19 +22,9 @@
                     hreflang="en"
                     href="https://xxaxx007.github.io/tags/"
                     /></url><url>
-            <loc>https://xxaxx007.github.io/</loc><lastmod>2022-12-17T17:30:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://xxaxx007.github.io/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://xxaxx007.github.io/"
-                    /></url><url>
             <loc>https://xxaxx007.github.io/blog/%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B91217/</loc><lastmod>2022-12-17T17:30:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://xxaxx007.github.io/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-12-17T17:30:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://xxaxx007.github.io/blog/up/</loc><lastmod>2022-12-17T14:30:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://xxaxx007.github.io/posts/</loc><lastmod>2022-12-17T14:28:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://xxaxx007.github.io/up/</loc><lastmod>2022-12-17T14:28:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://xxaxx007.github.io/blog/notes/git_induct/</loc><lastmod>2022-12-17T13:47:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://xxaxx007.github.io/tags/notes/</loc><lastmod>2022-12-17T13:47:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
